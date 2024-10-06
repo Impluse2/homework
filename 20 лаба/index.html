@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"
+			rel="stylesheet"
+		/>
+		<script src="https://cdn.tailwindcss.com"></script>
+		<script>
+			tailwind.config = {
+				theme: {
+					extend: {
+						colors: {
+							dark: '#2D2D2D',
+							button: '#a7dadc',
+						},
+						fontFamily: {
+							inter: ['Inter', 'sans-serif'],
+						}
+					},
+				},
+			}
+		</script>
+		
+		<title>Document</title>
+	</head>
+	<body class="m-0 p-0 font-inter">
+		<header class="mt-[32px] mb-[69px]">
+			<div class="max-w-[1100px] m-auto">
+				<div class="flex justify-between items-center">
+					<div class="text-base font-bold text-dark">Logo Company</div>
+					<nav class="mx-w-[544px]">
+						<ul class="flex justify-between gap-[24px]">
+							<li>
+								<a class="font-normal text-sm text-dark hover:text-button" href="#">What We Do</a>
+							</li>
+							<li>
+								<a class="font-normal text-sm text-dark hover:text-button" href="#"
+									>Become A Volunteer</a
+								>
+							</li>
+							<li>
+								<a class="font-normal text-sm text-dark hover:text-button" href="#">Events</a>
+							</li>
+							<li>
+								<a class="font-normal text-sm text-dark hover:text-button" href="#">Contacts</a>
+							</li>
+							<li>
+								<a class="font-normal text-sm text-dark hover:text-button" href="#"
+									>What You Can Do</a
+								>
+							</li>
+						</ul>
+					</nav>
+					<button
+						class="font-bold text-base text-dark font-inter max-w-[131px] max-h-[46px] py-[8px] px-[37px] border border-solid border-[2px] hover:bg-button border-button rounded-lg"
+					>
+						Donate
+					</button>
+				</div>
+			</div>
+		</header>
+		<main>
+			<section>
+				<div class="max-w-[1100px] m-auto">
+					<div class="flex justify-between">
+						<div class="max-w-[448px] flex flex-col">
+							<img class="mb-[18px] grayscale-[100%]" src="bunny.png" />
+							<div class="flex gap-[18px]">
+								<img class="grayscale-[100%]" src="hamster.png" alt="" />
+								<div class="flex flex-col gap-[18px]">
+									<img class="grayscale-[100%]" src="cat.png" alt="" />
+									<img class="grayscale-[100%]" src="dog.png" alt="" />
+								</div>
+							</div>
+						</div>
+						<div class="max-w-[542px]">
+							<div>
+								<h2 class="font-bold text-[40px] text-dark uppercase">
+									ease things you can do right now to help end animal testing
+								</h2>
+								<div class="flex flex-wrap gap-[12px] mt-[42px]">
+									<div class="max-w-[264px]">
+										<h3 class="font-bold text-base text-dark mb-[22px]">
+											Buy cruelty-free products.
+										</h3>
+										<p class="text-justify text-sm">
+											Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+											sed do eiusmod tempor incididunt ut labore et dolore magna
+											aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+											ullamco laboris nisi ut aliquip ex ea commodo consequat.
+										</p>
+									</div>
+									<div class="max-w-[264px]">
+										<h3 class="font-bold text-base text-dark mb-[22px]">
+											Make your own cosmetics and houcehold products.
+										</h3>
+										<p class="text-justify text-sm">
+											Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+											sed do eiusmod tempor incididunt ut labore et dolore magna
+											aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+											ullamco laboris nisi ut aliquip ex ea commodo consequat.
+										</p>
+									</div>
+									<div class="max-w-[264px]">
+										<h3 class="font-bold text-base text-dark mb-[22px]">
+											Think about plant-based diet.
+										</h3>
+										<p class="text-justify text-sm">
+											Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+											sed do eiusmod tempor incididunt ut labore et dolore magna
+											aliqua.
+										</p>
+									</div>
+									<div class="max-w-[264px]">
+										<h3 class="font-bold text-base text-dark mb-[22px]">
+											Educate and share.
+										</h3>
+										<p class="text-justify text-sm">
+											Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+											sed do eiusmod tempor incididunt ut labore et dolore magna
+											aliqua.
+										</p>
+									</div>
+								</div>
+							</div>
+							<div class="mt-[40px]">
+								<h2 class="font-bold text-[40px] text-dark uppercase">
+									what to do more?
+								</h2>
+								<div class="flex flex-wrap gap-[12px] mt-[42px]">
+									<div class="max-w-[264px]">
+										<h3 class="font-bold text-base text-dark mb-[22px]">
+											Join our community and become a volunteer.
+										</h3>
+										<p class="text-justify text-sm">
+											Lorem ipsum dolor sit amet, consectetur adipiscing.
+										</p>
+										<button
+											class="font-bold text-base text-dark font-inter max-w-[131px] max-h-[46px] py-[8px] px-[37px] hover:bg-button border border-solid border-[2px] border-button rounded-lg mt-[22px]"
+										>
+											Join
+										</button>
+									</div>
+									<div class="max-w-[264px]">
+										<h3 class="font-bold text-base text-dark mb-[22px]">
+											Make a donation to help us fight for animals rights
+										</h3>
+										<p class="text-justify text-sm">
+											Lorem ipsum dolor sit amet, consectetur adipiscing.
+										</p>
+										<button
+											class="font-bold text-base text-dark font-inter max-w-[131px] max-h-[46px] py-[8px] px-[37px] rounded-lg border border-solid border-[2px] hover:bg-button border-button mt-[22px]"
+										>
+											Donate
+										</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+		</main>
+	</body>
+</html>
