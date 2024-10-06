@@ -1,0 +1,1065 @@
+@media (max-width: 450px) {
+    
+    .header{
+        width: 100%;
+        height: fit-content;
+    }
+
+    .navbar-list{
+        display: none;
+    }
+
+    .body{
+        overflow-x: hidden;
+    }
+
+    .logo{
+        width: 100px;
+        height: 100px;
+        margin-left: 55px;
+        
+    }
+
+    .navbar{
+        width: 100%;
+        height: fit-content;
+        justify-content: flex-start;
+    }
+
+    .begin {
+        width: 100%;
+        height: 80vh;
+        position: relative;
+    }
+
+    .begin-img{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .bars{
+        opacity: 100;
+        font-size: 48px;
+        color: white;
+    }
+
+    .tele-med{
+        position: relative;
+        opacity: 100;
+        font-size: 40px;
+        color: white;
+        left: 285px;
+    } 
+
+    
+
+    .injener{
+        font-size: 35px;
+        width: 350px;
+        height: fit-content;
+        left: 22px;
+        top: 50px;
+    }
+
+    .desc{
+        width: 350px;
+        height: fit-content;
+        left: 26px;
+        font-size: 18px;
+        top: 100px;
+    }
+
+    .buthead{
+        position: relative;
+        height: fit-content;
+        top: 150px;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .s1988{
+        display: none;
+    }
+
+    .yslyga{
+
+        width: 160px;
+        position: sticky;
+        left: 25px;
+    }
+
+    .proekt{
+        font-size: 14px;
+        width: 160px;
+        position: sticky;
+
+        left: 100px;
+    }
+
+    .obj-line {
+        display: none;
+    }
+
+    .swipe{
+    opacity: 0;
+    width: 0;
+    height: 0;
+    }
+
+    .fullline, .nfulllline, .nfulllline-2, .nfulllline-3, .nfulllline-4, .trk-avia, .atk-kytyz, .zavod-zil, .stan-okc, .arr-left, .arr-right, .line-Renaissance-2, .russ-towers, .date-2007, .line-russ, .russ-more, .oko-img, .oko-tower, .data-2007, .line-oko
+    .oko-discr, .verticalLine-job-1, .verticalLine-job-2, .surveys, .surveys-job, .verticalLine-job-3, .Expertise, .Expertise-job, .verticalLine-job, .block-3{
+        width: 0;
+        height: 0;
+        opacity: 0;
+    }
+
+    .one{
+        left: 134px;
+        bottom: 636px;
+    }
+
+    .tire{
+        left: 192px;
+        bottom: 675px;
+    }
+
+    .two{
+        left: 232px;
+        bottom: 704px;
+    }
+
+    .term-1{
+        width: 100%;
+        top: 50px
+    }
+
+    .term{
+        width: 385px;
+        font-size: 26px;
+        left: 13px;
+        bottom: -11px;
+    }
+
+    .why{
+        width: 385px;
+        left: 13px;
+        font-size: 26px;
+    }
+
+    .whatresearch{
+        width: 385px;
+        font-size: 26px;
+        left: 13px;
+        margin-top: 80px;
+    }
+
+    .whatresearch-2{
+        width: 385px;
+        font-size: 26px;
+        left: 13px;;
+    }
+
+    .research-more{
+        display:block;
+        font-size: 20px;
+        left: 13px;
+        margin-top: 40px;
+    }
+
+    .types-injener{
+        top: 0;
+    }
+
+    .kinds{
+        top: 0;
+        margin-top: 50px;
+        width: 385px;
+        left: 13px;
+        font-size: 26px;
+    }
+
+    .activities{
+        top: 0;
+        margin-top: 20px;
+        width: 385px;
+        left: 13px;
+        font-size: 26px;
+    }
+
+    .cards{
+        top: 0;
+        margin-top: 20px;
+    }
+
+    .line-geological{
+        width: 375px;
+        left: 13px;
+        top: 0px;
+        margin-top: 25px;
+    }
+
+    .Geological{
+        margin-top: 20px;
+        left: 13px;
+        top: 0px;
+    }
+
+    .card-one{
+        width: 385px;
+        font-size: 26px;
+        top: 0;
+        margin-top: 10px;
+        left: 13px;
+    }
+
+    .geo-desc{
+        width: 385px;
+        font-size: 22px;
+        left: 13px;
+        top: 0;
+        margin-top: 20px
+    }
+
+    .Geological-more{
+        display: block;
+        margin-top: 20px;
+        width: 385px;
+        font-size: 20px;
+        left: 13px;
+        top: 0px;
+    }
+
+    .line-geodesic{
+        top: 0;
+        display: block;
+        width: 375px;
+        left: 13px;
+        margin-top: 20px;
+    }
+
+    .Geodesic{
+        left: 13px;
+        top: 0px;
+        margin-top: 20px;
+    }
+
+    .card-two{
+        width: 385px;
+        font-size: 26px;
+        top: 0px;
+        left: 13px;
+        margin-top: 15px;
+    }
+
+    .geodesic-desc{
+        width: 385px;
+        font-size: 22px;
+        left: 13px;
+        top: 0px;
+        margin-top: 20px;
+    }
+    
+    .Geodesic-more{
+        display: ;
+        width: 385px;
+        font-size: 20px;
+        left: 13px;
+        top: 0px;
+    }
+
+    .line-ecological{
+        width: 375px;
+        left: 13px;
+        top: 0px;
+    }
+
+    .ecological{
+        left: 13px;
+        margin-top: 20px;
+    }
+
+    .card-three{
+        width: 385px;
+        font-size: 26px;
+        left: 13px;
+    }
+
+    .ecological-desc{
+        width: 385px;
+        font-size: 22px;
+        left: 13px;
+        margin-top: 20px;
+    }
+
+    .ecological-more{
+        width: 385px;
+        font-size: 20px;
+        left: 13px;
+    }
+
+    .line-ecological-2{
+        position: relative;
+        opacity: 100;
+        width: 375px;
+        left: 13px;
+    }
+    
+    .hight-quality{
+        margin-top: 116px;
+    }
+
+    .quality{
+        width: 375px;
+        left: 13px;
+        margin-top: -61px;
+        font-size: 26px;
+    }
+
+    .qual-desc{
+        opacity: 0;
+        width: 0;
+        height: 0;
+        left: 0;
+        top: 0;
+    }
+
+    .more{
+        width: 232px;
+        left: 184px;
+        margin-top: 15px;
+        font-size: 20px;
+    }
+
+    .six{
+        width: 220px;
+        left: 184px;
+        font-size: 96px;
+    }
+
+    .maj-projects{
+        width: 232px;
+        left: 137px;
+        font-size: 20px;
+    }
+
+    .line-projects{
+        opacity: 0;
+        width: 0;
+        height: 0;
+        left: 0;
+        top: 0;
+    }
+
+    .verticalLine{
+        opacity: 0;
+        width: 0;
+        height: 0;
+        left: 0;
+        top: 0;
+    }
+
+
+    .ms-moreimg{
+        margin-top: 50px;
+        height: 970px;
+    }
+
+    .ms{
+        overflow: visible;
+        width: 0px;
+        height: 80px;
+    }
+
+    .msc-siti{
+        width: 187px;
+        height: 34px;
+        left: 13px;
+        padding-left: 14px;
+        background-color: gray;
+        margin-top: 0px;
+    }
+
+    .stadion-spartak{
+        color: rgb(255, 255, 255);
+        width: 250px;
+        height: 34px;
+        left: 238px;
+        margin-top: -33px;  
+        
+    }
+
+
+    .block-1{
+        margin-top: 0px;
+        margin-left: 13px;
+    }
+
+    .Renaissance{
+        left: 0px;
+    }
+
+
+    .russ-tower{
+        width: 375px;;
+    }
+
+    .rena-desc{
+        width: 263px;
+        font-size: 22px;
+        left: 35px;
+    }
+
+    .dat-2013{
+        margin-top: 20px;
+        position: relative;
+        left: 35px;
+    }
+
+    .line-Renaissance{
+        width: 340px;
+        position: relative;
+        background-color: transparent;
+        margin-top: 20px;
+        left: 34px;
+    }
+
+    .renai-more{
+        width: 76px;
+        font-size: 20px;
+        left: 34px;
+    }
+
+    .orders{
+        margin-top: 70px
+    }
+
+    .order{
+        width: 332px;
+        height: 86px;
+        left: 13px;
+        font-size: 26px;
+    }
+
+    .order-desc{
+        width: 375px;
+        height: 50px;
+        left: 13px;
+        font-size: 22px;
+    }
+
+    .order-more{
+        left: 13px;
+        width: 375px;
+        font-size: 22px;
+        margin-top: 30px;
+    }
+
+    .job{
+        overflow: hidden;
+        width: 417px;
+        margin-top: 59px;
+        left: 13px;
+        font-size: 26px;
+    }
+
+    .preparation{
+        width: 62px;
+        left: 1px;
+        top: 24px;
+        font-size: 20px;
+        line-height: 22.4px;
+        border: 3px solid rgb(215, 197, 136)7;
+        background-color: #ae9446;
+        z-index: 1;
+    }
+
+    .preparation-1{
+        position: relative;
+        left: 38px;
+        width: 154px;
+        height: 62px;
+        font-size: 18px;
+        color: #DFD1A7;
+        bottom: 39px;
+        background-color: #ae9446;
+        padding-left: 34px;
+        padding-top: 19px;
+        border-top-right-radius:40px;
+        border-bottom-right-radius:40px;
+        border: 1px solid rgb(215, 197, 136)7;
+    }
+
+    .line-prep{
+        opacity: 100;
+        width: 57px;
+        position: relative;
+        background-color: transparent;
+        left: 224px;
+        bottom: 70px;
+    }
+
+    .Organization{
+        width: 62px;
+        left: 301px;
+        top: -102px;
+        font-size: 20px;
+        line-height: 22.4px;
+        border: 3px solid rgb(145, 144, 140) 7;
+        background-color: #81807c;
+        z-index: 1;
+    }
+
+    .Organization-job{
+        position: relative;
+        left: 330px;
+        width: 154px;
+        height: 62px;
+        font-size: 18px;
+        color: #808080;
+        bottom: 164px;
+        background-color: #7d7d7d;
+        padding-left: 42px;
+        padding-top: 19px;
+        border-top-right-radius: 40px;
+        border-bottom-right-radius: 40px;
+        border: 1px solid rgb(215, 197, 136) 7;
+    }
+
+    .left-job{
+        left: 13px;
+        margin-top: 0px;
+        top: -500px;
+        width: 97px;
+    }
+
+    .right-job{
+        left: 85px;
+        top: -500px;
+        width: 97px; 
+    }
+
+    .prep{
+        width: 375px;
+        height: 34px;
+        left: 13px;
+        bottom: 122px;
+        font-size: 26px;
+        margin-top: 0px;
+    }
+
+    .prep-descr{
+        width: 375px;
+        bottom: 158px;
+        left: 13px;
+        font-size: 22px;
+    }
+
+    .block-2{
+        margin-left: 387px;
+        margin-top: -882px;
+    }
+
+    .horosh{
+        width: fit-content;
+    }
+
+    .about-provider{
+        margin-top: -50px;
+        margin-left: 13px;
+        width: fit-content;
+    }
+
+    .about-grey{
+        background-color: #7d7d7d;
+        width: fit-content;
+    }
+
+    .about{
+        left: 13px;
+        padding-top: 15px;
+    }
+
+    .about-desc{
+        margin-top: 30px;
+        left: 13px;
+        width: 395px;
+    }
+
+    .about-more{
+        left: 13px;
+    }
+
+    .provider-grey{
+        background-color: #7d7d7d;
+        width: fit-content;
+        margin-top: 290px;
+    }
+
+    .provider{
+        left: 13px;
+        padding-top: 15px;
+    }
+
+    .provider-desc{
+        width: 395px;
+        left: 13px;
+        margin-top: 30px;
+    }
+
+    .provider-more{
+        left: 13px;
+    }
+
+
+    .goals-objectives{
+        display: none;
+    }
+
+
+    .need-research{
+        overflow: hidden;
+    }
+
+    .necessity{
+        margin-top: 100px;
+        left: 13px;
+        width: 395px;
+        height: 120px;
+    }
+
+    .pribor{
+        margin-top: 50px;
+        left: 0;
+    }
+
+    .equip-bg{
+        margin-top: -6px;
+        width: 671px;
+        height: 660px;
+        left: 0;
+        background-color: #7d7d7d;
+    }
+
+    .equip-desc{
+        padding-top: 30px;
+        width: 407px;
+        height: 636px;
+        left: 13px;
+    }
+
+    .haig-lvlproffesional{
+        margin-top: 70px;
+        margin-left: 13px;
+        width: fit-content;
+    }
+
+    .haiger-lvl{
+        left: 0;
+        width: 414px;
+        height: 170px;
+    }
+
+    .confirm{
+        margin-top: 30px;
+        left: 0; 
+    }
+
+    .thirty-job{
+        left: 0;
+        margin-top: 30px;
+    }
+    
+    .thirty-desc{
+        width: 395px;
+        height: 60px;
+        left: 0;
+        margin-top: 20px;
+    }
+
+    .line-thirty{
+        left: 0;
+        width: 90%;
+    }
+
+    .complex-work{
+        left: 0;
+    }
+
+    .complex-desc{
+        left: 0;
+        width: 395px;
+        height: 60px;
+    }
+
+    .line-complex{
+        left: 0;
+        width: 90%;
+    }
+
+    .team-prof{
+        left: 0;
+    }
+
+    .team-desc{
+        left: 0;
+        width: 395px;
+        height: 42px;
+    }
+
+    .line-team{
+        left: 0;
+        width: 90%;
+    }
+
+    .respond-fast{
+        left: 0;
+    }
+
+    .respond-desc{
+        left: 0;
+        width: 395px;
+        height: 42px;
+    }
+
+    .line-respond{
+        left: 0;
+        width: 90%;
+    }
+
+    .huge-experience{
+        left: 0;
+    }
+
+    .experi-desc{
+        left: 0;
+        width: 395px;
+        height: 63px;
+    }
+
+    .line-experi{
+        left: 0;
+        width: 90%;
+        
+    }
+
+
+    .find-question{
+        margin-left: 13px;
+        margin-top: 80px;
+        width: 417px;
+        overflow: hidden;
+
+    }
+
+    .problem{
+        left: 0;
+        width: 400px;
+    }
+
+    .support{
+        left: 0;
+        margin-top: 20px;
+    }
+    
+
+    .minu{
+        left: 0;
+        margin-top: 50px;
+    }
+
+    .long-job{
+        width: 270px;
+        height: 60px;
+        margin-top: -43px;
+        left: 45px;
+    }
+    
+    .verticalLine-long{
+        left: 45px;
+        height: 150px;
+    }
+
+    .longjob-desc{
+        left: 60px;
+        width: 330px;
+        margin-top: -123px;
+    }
+
+    .line-longjob{
+        left: 0;
+        margin-top: 90px;
+        width: 80%;
+    }
+
+    .plus,.plus-2, .plus-3, .plus-4, .plus-5, .plus-6{
+        left: 0;
+    }
+
+    .full-russ, .price-list, .time-job, .vacancy, .your-office{
+        left: 45px;
+    }
+
+    .line-fullruss, .line-pricelist, .line-timejob, .line-vacancy, .line-youroffice{
+        left: 0;
+        width: 80%;
+    }
+
+    .how-services{
+        left: 45px;
+        width: 330px;
+    }
+
+    .line-howservices{
+        left: 0;
+        width: 80%;
+        margin-top: 40px;
+    }
+
+    .footer{
+        overflow: hidden;
+        width: 417px;
+        margin-left: 13px;
+        margin-top: 50px;
+    }
+
+    .shift{
+        left: 0;
+    }
+
+    .nubmer-telephone, .not-full{
+        display: none;
+    }
+
+    .cin-telephon{
+        left: 0;
+        margin-top: 50px;
+    }
+
+    .line-cintele{
+        left: 0;
+        width: 93%;
+    }
+
+    .tehnical{
+        left: 0;
+    }
+
+    .doxc{
+        left: 0;
+        margin-top: 60px;
+        color: #b4b2a9;
+    }
+
+    .unistall{
+        left: 0;
+        margin-top: 40px;
+    }
+
+    .unistall-fail{
+        left: 40px;
+    }
+
+    .t3-doc{
+        left: 0;
+        bottom: 75px;
+    }
+
+    .musor{
+        left: 200px;
+        bottom: 78px;
+    }
+
+    .t3-2doc{
+        left: 0;
+        bottom: 35px;
+        left: -195px;
+    }
+
+    .musor-2{
+        left: -15px;
+        bottom: 35px;
+    }
+
+
+    .calculate{
+        left: 0px;
+        width: 394px;
+    }
+
+
+    .supporter{
+        margin-top: 80px;
+        margin-left: 13px;
+        width: fit-content;
+        height: 725px;
+    }
+
+    .support-help{
+        left: 0;
+        width: fit-content;
+    }
+
+    .ticket, .first-name{
+        left: 0;
+    }
+    
+    .line-firstname{
+        left: 0;
+        width: 100%;
+    }
+
+    .nomer-tele{
+        left: 0;
+        margin-top: 20px;
+    }
+
+    .nomer-te{
+        left: 0;
+    }
+    
+    .line-nome{
+        left: 0;
+        width: 100%;
+    }
+
+    .text-message{
+        left: 0;
+        margin-top: 20px;
+    }
+
+    .textmass{
+        left: 0;
+    }
+
+    .line-textmessage{
+        left: 0;
+        width: 100%;
+    }
+
+    .send-message{
+        left: 0;
+        width: 100%;
+    }
+
+    .writ-us{
+        left: 0;
+        top: 360px;
+    }
+
+    .ruts{
+        left: 0;
+        top: 400px;
+    }
+
+
+    .footer-content{
+        margin-left: 13px;
+        margin-top: 50px;
+        width: fit-content;
+        height: 492px;
+    }
+
+    .line-footer{
+        left: 0;
+        width: 380px;
+    }
+
+    .footer-logo{
+        left: 0;
+        margin-left: 125px;
+        
+    }
+
+    .logo-desc{
+        left: 0;
+        margin-left: 96px;
+    }
+
+    .telephon-2{
+        left: 0;
+        margin-left: 66px;
+    }
+
+    .nubme{
+        left: 0;
+        margin-left: 120px;
+    }
+
+    .faceb{
+        bottom: 400px;
+        left: 0;
+        bottom: 80px;
+        margin-left: 100px;
+    }
+
+    .vk{
+        left: 0;
+        bottom: 83px;
+        margin-left: 50px;
+    }
+    
+    .inst{
+        left: 0;
+        bottom: 83px;
+        margin-left: 50px;
+    }
+
+    .line-footers{
+        left: 0;
+        width: 380px;
+        margin-top: -50px;
+    }
+
+    .teg-foot{
+        left: 0;
+        margin-left: 142px;
+        bottom: -100px;
+    }
+
+    .teg-foot-2{
+        left: 0;
+        margin-left: 155px;
+        bottom: 0;
+        top: 120px;
+    }
+
+    .teg-foot-3{
+        left: 0;
+        margin-left: 150px;
+        bottom: 0;
+        top: 140px;
+    }
+
+    .teg-foot-7{
+        left: 0;
+        margin-left: 140px;
+        bottom: 0;
+        top: 160px;
+        
+    }
+
+    .verticalLine-short,.verticalLine-short-2{
+        display: none;
+    }
+
+    .line-footers{
+        left: 0;
+
+    }
+
+    .text-footer{
+        left: 0;
+        margin-top: 40px;
+        width: 300px;
+        margin-left: 75px;
+    }
+
+    .restriction-footer{
+        display: none;
+    }
+
+}
+
+
