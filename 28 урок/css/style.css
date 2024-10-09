@@ -1,0 +1,43 @@
+.some-text{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    font-style: italic;
+}
+/* font-family подключение шрифта, сокращение ff */
+/* serif с засечкой, sans-seif без засечек шрифт */
+/* fz - font size для увелчения шрфита */
+/* lh  - line-height высота строки */
+/* ta - text-align выравнивание текста left, right, center, justify  */
+/* fw - font-weight жиронсть шрифта  */
+/* fs - font-style  normal- , italic-шрифт под наклоном,  */
+
+.some-2{
+    font-family: "Playfair Display", serif;
+    font-weight: 600;
+    text-decoration: line-through;
+}
+
+.some-3{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.some-4{
+    color: blueviolet;
+    word-spacing: 30px;
+}
+
+.some-5{
+    letter-spacing: 5px;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+
+.some-6{
+    text-decoration: overline;
+    text-decoration-style: double;
+    text-transform: lowercase;
+    text-shadow: red 2px 2px;
+}
